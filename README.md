@@ -153,4 +153,7 @@ conn.close()
 log_progress('Process Complete.')
 ```
 ## Result Snapshots 📸
+![Task_6_SQL](https://github.com/shubhambhoge/Banks_Etl/assets/91431332/6ad7328e-b091-4859-ad86-b6f0f23a99ff)
+![Task_7_log_content](https://github.com/shubhambhoge/Banks_Etl/assets/91431332/5bf2d07f-6456-4267-932e-4c8470b2d453)
+
 
