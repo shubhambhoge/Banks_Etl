@@ -152,3 +152,5 @@ run_query(query_statements, conn)
 conn.close()
 log_progress('Process Complete.')
 ```
+## Result Snapshots 📸
+
